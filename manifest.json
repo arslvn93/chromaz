@@ -30,7 +30,7 @@
         "<all_urls>"
       ],
       "js": [
-        "src/pages/content/index.tsx"
+        "assets/index.tsx-loader-Cka7UI9V.js"
       ],
       "css": [
         "assets/tailwind-MvjZxDZY.css",
@@ -42,10 +42,8 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "assets/tailwind-MvjZxDZY.css",
-        "assets/index-CdnoCYH2.css",
-        "public/dev-icon-128.png",
-        "public/dev-icon-32.png"
+        "assets/*",
+        "public/*"
       ],
       "matches": ["<all_urls>"]
     }
