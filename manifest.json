@@ -30,10 +30,11 @@
         "<all_urls>"
       ],
       "js": [
-        "src/pages/content/index.tsx"
+        "assets/index.tsx-VQmLqNYQ.js"
       ],
       "css": [
-        "contentStyle.css"
+        "assets/index-CdnoCYH2.css",
+        "assets/tailwind-MvjZxDZY.css"
       ]
     }
   ],
