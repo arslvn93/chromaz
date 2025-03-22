@@ -33,7 +33,8 @@
         "src/pages/content/index.tsx"
       ],
       "css": [
-        "contentStyle.css"
+        "assets/tailwind-MvjZxDZY.css",
+        "assets/index-CdnoCYH2.css"
       ]
     }
   ],
@@ -41,7 +42,8 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "contentStyle.css",
+        "assets/tailwind-MvjZxDZY.css",
+        "assets/index-CdnoCYH2.css",
         "public/dev-icon-128.png",
         "public/dev-icon-32.png"
       ],
