@@ -33,7 +33,7 @@
         "src/pages/content/index.tsx"
       ],
       "css": [
-        "assets/index-CdnoCYH2.css"
+        "contentStyle.css"
       ]
     }
   ],
@@ -41,7 +41,7 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "assets/index-CdnoCYH2.css",
+        "contentStyle.css",
         "public/dev-icon-128.png",
         "public/dev-icon-32.png"
       ],
