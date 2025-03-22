@@ -16,7 +16,7 @@
     "newtab": "src/pages/newtab/index.html"
   },
   "icons": {
-    "128": "icon-128.png"
+    "128": "public/dev-icon-128.png"
   },
   "permissions": [
     "activeTab"
