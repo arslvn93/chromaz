@@ -41,11 +41,11 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "contentStyle.css",
+        "assets/index-CdnoCYH2.css",
         "public/dev-icon-128.png",
         "public/dev-icon-32.png"
       ],
-      "matches": []
+      "matches": ["<all_urls>"]
     }
   ]
 }
